@@ -8,7 +8,7 @@
 
 - 📫 How to reach me:
    Email: ms.sk.3609@gmail.com
-   LinkedIn:
+   LinkedIn: https://www.linkedin.com/in/mohammedsaifshaikh/
   
 <!---
 1MohammedSaif/1MohammedSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
